@@ -1,0 +1,652 @@
+{
+    "opening_text": "you start here with these choices",
+    "allPagesInStory": [
+                        {
+                        "page_text": "INDEX 0,INDEX In your hometown, there is a tradition. There is a man, merely known as the Distributor, who visits every single resident in the city at a point in their lives. No one is sure why or when, and there does not seem to be a pattern, any rhyme or reason to his appearance. Some are visited before they even hit their teenage years, and some adults you know still have not seen the Distributor. There are only two certain facts about this event; one: everyone who lives in this city will, before they die, be visited by the Distributor, and two: when one is visited, they will have to make a choice.\n\nThis choice will ultimately decide what happens to them for the rest of their lives.\n                        Or so they say. Your best friend since elementary school, Lucian, was visited by the Distributor during your junior year of high school. He made his choice, and showed up the next day at school with the surprising news. Visits from the Distributor were sporadic, and so anyone in school who had been visited became quite popular for a time. Those who had already made their Choice wanted to discuss one another’s decisions; there was a sort of enviable exclusivity to this group of people. Everyone else just wanted a secondhand taste of what the Choice was like. Lucian sort of reveled in the attention for a time, while you and Ellen, a recent but fast friend, stood behind him rolling your eyes the entire time.\n                        In private, you both asked Lucian if he felt any different, which he pondered for a while before stating that he believed his allergies were getting better.\n                        There is a sort of unspoken rule that those who had been visited by the Distributor were not supposed to disclose details of the interaction with anyone, so the gossip that filtered through the community was always chockfull of vague generalities and assumptions, but there is a constant in every meeting which everyone knows.\n                        When the Distributor visits someone, they are made to choose between three items.\n                        The items are different for every person, and their significance is not apparent at the beginning. You are told that there is one, though.\n                        It is several years after Lucian gets his visit before you hear the knock on your door.\n                        It is late evening when the Distributor finds you at your home. The rap at the door startles you from your half-awake state in the apartment where you now live alone. You rub your eyes and stand slowly from the couch, more than a little bewildered. Maybe Ellen had left something while she’d been visiting, you think. Under this assumption, you twist deadbolt and pull open the door without bothering to check the peephole.\n                        Your heart seems to falter for a moment as you regard the figure beyond the threshold, who is unfamiliar but you know all at once.\n                        The Distributor is nothing like you imagined him all your life. He looks normal, too normal, so much so that he has bypassed it the whole concept of normalcy into a sort of charade. His clothes are street casual, but don’t seem to fit him correctly, too baggy around his shoulders and too tight around his legs. The man before you is older, but still seems much too young to be the same Distributor who has appeared to everyone in town for as long as anyone can remember. There are light crow’s feet by his pale blue eyes, which shine unnaturally despite the darkness outside. Parentheses surround his mouth. Those lines curve outwards at your appearance in the door.\n                        “Good evening,” he says in a pleasant tone. Your eyes trail down to the bag which hangs over his shoulder. The weight of what lies inside the bag hits you suddenly, and your hand clenches over the doorknob as you stutter out a ‘good evening’ in reply. Without a doubt that the man before you is the one you have wondered about for so long, you move backwards to allow him entrance into your apartment. He tips his head towards you and steps inside. You eye him as he wanders through your small place, looking about curiously. He takes his bag to the dining room table and sets it down. There is definitely something otherworldly about him, you think, but then again maybe it’s just the intrigue that has surrounded him for so long that makes you think so.\n                        “I trust you know why I’m here,” he says in that same unassuming tone without looking at you. He is pulling things out of his bag and putting them on the tabletop, but from where you are standing, you cannot see what they are.\n                        You swallow the knot that has formed in your throat.\n                        “What took you so long?” you ask with a forced smile. The Distributor actually laughs here, and turns to look at you.\n                        “I come when you call,” he says cryptically, and you have no idea what he means, because it is past midnight and these days, your Choice is not on your mind all too often. \n                        “Are you sure you’re at the right house?”\n                        “Now more than ever,” the Distributor responds, and gestures you over. You hesitate under his gaze. \n                        There are so many questions that you have wanted to ask all these years, questions that no one but this man has the power to answer. But now that he stands here in your home for the first and what is sure to be the only time, your mind is blank. You struggle to find something to demand of him, but nothing comes.\n                        You find yourself at his side moments later, and an uneasiness has settled over you as you stare down at the three objects he has placed on the table.\n                        A pocket watch. A hand mirror. A coin.\n                        You look at them for a long time as if trying to discern significance out of each of the items. You certainly feel like you’re missing something, by the excited look the Distributor is giving you.\n                        For a long time, you had pictured this moment, but this… This feels so abrupt, so underwhelming, so unceremonious. And you have no idea what you’re supposed to be looking for.\n                        “I- … Do I have to choose now?”\n                        “Don’t look so overwhelmed,” the man says, “It should be a natural choice. It’s not something that needs to be overthought.”\n                        You return your attention to the table and reach out a hand. ",
+                        "choices": [
+                                    {
+                                    "buttontext": "Esme, she's in your bio-class.",
+                                    "indexToNextPage": 1
+                                    },
+                                    {
+                                    "buttontext": "I like small-town grieving. Joe.",
+                                    "indexToNextPage": 38
+                                    },
+                                    {
+                                    "buttontext": "Sam, underground athiest",
+                                    "indexToNextPage": 0
+                                    },
+                                    {
+                                    "buttontext": "I'll stick with the co-op, Martha",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 1, Esme was five when her mother walked out, six when her father died of lighting strike and 11 when she found out she had a twin. She grew up in the south part of town, over by (but not quite in) the local trailerpark and near the humane society. Her favorite color has always been teal, her food of choice roasted chicken and her dance move the hip-swing. You become her friend in Bio-Class and decide to that she's pretty nice, even if her homelife sounds like a disaster. After school one day, she asks if you'd be interested in coming over that night just to hang out.",
+                        "choices": [
+                                    {
+                                    "buttontext": "You decide to hang out",
+                                    "indexToNextPage": 2
+                                    },
+                                    {
+                                    "buttontext": "Big test day, plus she's kinda smells like chicken",
+                                    "indexToNextPage": 25
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 2, it's almost eight by the time you get to her house. The street is dark, and it takes you forever to find the unmarked delapidated yellow structure which bears passing resemblance to anything you've ever lived in. You park and make sure to lock your mom's car twice, just to be safe. Your town might be small, but you've heard sketchy things about this neighborhood. You tromp up the stairs, knock on the door and hear someone inside shout something blurry over the noise of blaring TV. After a moment Esme answers and pulls you inside. The carpet is stained, the pictures on the wall wonky on their settings and the silhouette of someone sitting on a couch is just visible down the darkened hallway. To your left, Esme fiddles with the lock on a door. It creaks as she gently pulls it open. Sorry, my room is the basement, just down here.  ",
+                        "choices": [
+                                    {
+                                    "buttontext": "Cool, a basement bedroom",
+                                    "indexToNextPage": 3
+                                    },
+                                    {
+                                    "buttontext": "You hate basements, and tell her as much.",
+                                    "indexToNextPage": 22
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 3, the moment you step down the stairs, the grungy upper level fades away. Instead of getting darker on descent, the basement gets lighter, and a steady pulsing glow emanates from around a corner. Once you reach the bottom, you realize what Esme has down here; an entire garden of fantastical art, recycled beerbottles cut in half with sprouting succulents, a zipline from one side of the basement to the other, and tucked into a corner, a loft bed with hanging staircase and wisteria sprouting from the bedposts. Little bits of leaves and color glitter everywhere and you feel like a bird looking at a landscape of small shiny things. You can't decide what to to pick up first.",
+                        "choices": [
+                                    {
+                                    "buttontext": "You walk over to the bed.",
+                                    "indexToNextPage": 4
+                                    },
+                                    {
+                                    "buttontext": "You move to a small glass teddybear and pick it up.",
+                                    "indexToNextPage": 17
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 4, Esme walks up next to you. 'I planted that myself,' she says. The bedframe is covered in vines, thickets of leaves creep onto her pillow and each of the legs of the bed looks rooted to the floor. In fact, it's almost creepy how much the bed looks like it's actually made out of undergrowth itself. You move to touch one of the leaves but Esme snatches your hand away. 'I wouldn't do that if I were you,' she says.",
+                        "choices": [
+                                    {
+                                    "buttontext": "You pull your hand back and ask Esme, 'Why?'",
+                                    "indexToNextPage": 5
+                                    },
+                                    {
+                                    "buttontext": "You continue to poke at it.",
+                                    "indexToNextPage": 10
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 5, 'Well for one thing,' she says, 'the oils on your hands aren't good for it, and also...' He're she pauses, looking off into the distance as if making a decision. 'Also?' I inquire. 'It's my dad, and he doesn't like strangers touching him' she says seriously. I laugh nervously, 'Your dad, that plant is your dad?'. 'Yes well, he died when I was little and I took his ashes and started gardening with them. I started growing things, all the things in this room and and this bed too. It's all my dad.' That was when I started looking for the hidden camera. There had to be one around here somewhere. This was just too creepy, too weird to take for truth.  ",
+                        "choices": [
+                                    {
+                                    "buttontext": "You're creeped out but intrigued. Continue the conversation. ",
+                                    "indexToNextPage": 7
+                                    },
+                                    {
+                                    "buttontext": "This is bizarre and weird, and you feel vaguely terrified. Make up an excuse about the big test and make a run for it.",
+                                    "indexToNextPage": 6
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 6 ENDING. You've got bio-class after lunch the next day and you're dreading it. You contemplate not going, faking sick, whatever it takes to not look Esme in the eyes. The bell rings as your're running to class and you plop into your seat flustered and late. She's not there. The teacher has two announcements that day. First, she says that Esme won't be joining them due to disciplinary reasons, and two, she announces a new student in class. 'Everyone welcome Ivy' she proclaims. Ivy is a beautiful, dark-haired girl with long nails and a slightly greenish tint to her skin. She waves at the class and takes the seat right behind you. After settling gracefully into her seat, you feel her lean forward, the desks squeeking slightly as the edge of her tabletop brushes the back of your seat. 'Hello,' she says, 'glad we get to meet again.' ",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": true
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 7 'My dad died of a lighting strike when I was six,' she says. 'I didn't have anyone to talk to because my mom was gone too, so now I just grow my plants and go to school. There's just one problem, though. The plants are taking over. As she spoke, I noticed a vine beginning to curl surrepticiously around her ankle. She kept unconciously brushing it off, but the speed with which it moved was fascinating. Wait a second, there was no breeze inside the room, no breathe of wind - that plant was actually moving with intention! Esme continued with her story as I gaped. 'I don't really have friends anymore, if I ever did. This house was in my dad's Will, so I'm ok in that respect, but I'm having trouble keeping the plants in line. I actually brought you here because I needed to ask you a question. Will you help me?",
+                        "choices": [
+                                    {
+                                    "buttontext": "Help",
+                                    "indexToNextPage": 9
+                                    },
+                                    {
+                                    "buttontext": "Decline",
+                                    "indexToNextPage": 8
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 8 'I'm so sorry,' you say. 'I'm having a lot of trouble wrapping my head around this and I should probably go.' As you begin to back away notice that a whip thin green tendril has wrapped around your right ankle and is busy tying itself to another nosing it's way towards your right. You stumble backwords and let out a yelp as you fall a few feet away from the bed. Esme seems unperterbed and strangely calm. 'MMM, that's unfortunate that you can't help,' she says. 'I thought you might be different then the rest of them.' She stands above you, just out of reach as more vines begin to wrap around you and support the first. They begin to drag you toward and under the bed. You struggle and your heart begins to race as you panic. 'I strongly recommend staying calm for this,' says Esme, 'you'll taste much better. You see, my biggest problem with the plants right now is their appetite. My father was always a big eater. ",
+                        "choices": [
+                                    {
+                                    "buttontext": "THE END, RETURN HOME",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": false
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 9 END. ",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 10 (from index 4).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 11
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 12
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 11 END (from index 4).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 12 (from index 10).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 13
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 14
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 13 END(from index 12).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 14 (from index 12).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 15
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 16
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 15 END(from index 14).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 16 END(from index 14).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 17 (from index 3).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 18
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 19
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 18 (from index 17).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 20
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 21
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 19 (from index 17).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 20 END(from index 18).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 21  END(from index 18).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 22 (from index 2).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 23
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 24
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 23 END (from index 22).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 24 END (from index 22).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 25 (from index 1).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 26
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 27
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 26 (from index 25).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 30
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 31
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 27 (from index 25).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 28
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 29
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 28 END(from index 27).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 29 END (from index 27).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 30 (from index 26).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 32
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 33
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 31 (from index 30).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 34
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 35
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 32 END(from index 30).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 33 END (from index 30).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 34 END(from index 31).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 35 (from index 31).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 36
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 37
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 36 END(from index 35).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 37 END (from index 35).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 38 (from index 0).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 39
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 40
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 39 (from index 38).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 41
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 42
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 40 (from index 38).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 43
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 44
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 41 (from index 39).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 45
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 46
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 42 (from index 39).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 47
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 48
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 43 (from index 40).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 53
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 54
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 44 (from index 40).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 55
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 56
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 45 (from index 41).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 49
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 50
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 46 END(from index 41).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 47 (from index 42).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 51
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 52
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 48 END(from index 42).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 49 END(from index 45).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": true
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 50 END (from index 45).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": false
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 51 (from index 47).",
+                        "choices": [
+                                    {
+                                    "buttontext": "youChoose_1",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": true
+                                    },
+                                    {
+                                    "buttontext": "youChoose_2",
+                                    "indexToNextPage": 37
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 52 END(from index 47).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": false
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX 53 END (from index 43 ).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": false
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX54END(fromindex43).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": true
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX55END(fromindex44).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": false
+                                    }
+                                    ]
+                        },
+                        {
+                        "page_text": "INDEX56END(fromindex44).",
+                        "choices": [
+                                    {
+                                    "buttontext": "END",
+                                    "indexToNextPage": 0,
+                                    "isGoodEnding": true
+                                    }
+                                    ]
+                        }
+                        ]
+}
